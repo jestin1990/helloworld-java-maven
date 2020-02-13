@@ -40,12 +40,12 @@
   
 <distributionManagement>
     <repository>
-        <id>jmathew</id>
+        <id>jestin_nexus</id>
         <name>release softx</name>
         <url>http://0.0.0.0:9001/repository/jestin_nexus_release/</url>
     </repository>
     <snapshotRepository>
-        <id>jmathew</id>
+        <id>jestin_nexus</id>
         <name>snapshot softx</name>
         <url>http://0.0.0.0:9001/repository/jestin_nexus_snapshot/</url>
     </snapshotRepository>
